@@ -28,7 +28,7 @@ v6 - IPv6, v4- IPv4
 
 
 ## Per data (Gb)
-* [DataImpulse](https://dataimpulse.com/?aff=10601) 🏢 $0.5 🏠 $1 📱 $2
+* [DataImpulse](https://dataimpulse.com/?aff=10601) 🏢 $0.5 🏠 $1 📱 $2 🛒 $5
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) 🏢 $0.4-0.6 🏠 $4.2-2.9 📱 $5-8
 * [GeoNode](https://geonode.com/plans/mobile-proxies) 🏠 0.5-3
 * [Soax](https://soax.com?afmc=9e) 🏢 $0.4-0.6 🏠 $1.5-3 (USA) 📱 $2-3.6
