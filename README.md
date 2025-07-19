@@ -9,33 +9,35 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 🛒 - min order
 🛡️ - private, 👥 - shared
 ⏳ - for how many days can you buy
-6️⃣ - IPv6, 4️⃣- IPv4
+4️⃣- IPv4, 6️⃣ - IPv6
 -->
 
 ## Legend
-- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 6️⃣ IPv6 | 4️⃣ IPv4 | 🛒 Min Order | 👑 Premium | 🤖 Scraper helper functionality
+- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 4️⃣ IPv4 | 6️⃣ IPv6 | 🛒 Min Order | 👑 Premium | 🤖 Scraper helper functionality
 
 ## Per Proxy (IP/month) Pricing
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | ⏳Duration | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|----------|-----------|-------|
-| [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | $0.018-0.03👥 | $0.3-0.33👥 | - | 30 | 20-100 | |
-| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | - | $5-6 | - | 7,30 | 1 | |
-| [Proxy-store](https://proxy-store.com) | $1.4-2.6👥 | - | - | 5,10,20,30 | 1 | |
-| [Proxymus](https://proxymus.net/) | $1.5 | - | - | 30 | 1 | |
-| [Evomi](https://evomi.com) | - |  $1👥, $2.5-4.5🛡️ | - | | | |
-| [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | - | 30,60,90 | 1 | Real prices inside interface |
-| [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | - | - | 3,30 | | |
+| [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | $0.018-0.03👥 | $0.3-0.33👥 | | 30 | 20-100 | |
+| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | |
+| [Proxy-store](https://proxy-store.com) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
+| [Proxymus](https://proxymus.net/) | $1.5 | | | 30 | 1 | |
+| [Evomi](https://evomi.com) | |  $1👥, $2.5-4.5🛡️ | | | | |
+| [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | | 30,60,90 | 1 | Real prices inside interface |
+| [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | | | 3,30 | | |
 | [Proxy-Cheap](https://www.proxy-cheap.com) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | 7,30,365 | 1 | |
 | [Proxy-Seller](https://proxy-seller.com/) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | 7-365 | 1 | |
 | [Oxylabs](https://oxylabs.io/) | $0.75-1.20 |  |  | | 30 | 10 |
 | [PapaProxy](https://papaproxy.net/) | $0.07-0.19 |  |  | 30 | 1-500 | UPD $0.45-1.57 |
 | [ProxyWing](https://proxywing.com/) | $1.25-2 |  |  | 30 | 1 | ISP $1.9-2.5 |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | 30 | 1 | |
-| [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | |  | 10 | ISP $1.3-1.8, 50%off up to $500 |
-| [ASocks](https://asocks.com/) | $0.3-0.95 | $ | $ |  | 30 | 100 |
-| [AbcProxy](https://www.abcproxy.com/) | $4.5-6.5 | $5-6.5 | - | 1 | 7,30,90,365 |  |
-| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  |  | 10,30,60  | 1 |
+| [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | | | | 10 | ISP $1.3-1.8, 50%off up to $500 |
+| [ASocks](https://asocks.com/) | $0.3-0.95 |  |  |  | 30 | 100 |
+| [AbcProxy](https://www.abcproxy.com/) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 |  |
+| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
+| [IPFoxy](https://ipfoxy.com/) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
+| [FlyProxy](https://www.flyproxy.com/) | $7.7 | $11 | | 10,30,60 | 1 |  |
 
 
 <!--
@@ -67,7 +69,11 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [AstroProxy](https://astroproxy.com/r/9e528402c1c95277f2a1c6f97c79f4ab) | $3.94+ | $7.87+ | $13.14+ | $3 | 30 day port duration, from 100Mb/port, KYC |
 | [AbcProxy](https://www.abcproxy.com/) | | $0.77-3.3 | $1.2-3.4 | | Unlim res $66/day |
 | [MangoProxy](https://mangoproxy.com/) | $ | $0.5-5.2 | $ | | 🤖 |
-| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, +long lasting ISP, + unlimited res $68.33/day |
+| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, long lasting ISP, unlim res $68.33/day |
+| [IPFoxy](https://ipfoxy.com/) | | $3-6 | | | |
+| [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
+| [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
+| [FlyProxy](https://www.flyproxy.com/) | | $1.90-2.5 | $ | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 |
 <!--
 | []() | $ | $ | $ | | |
 -->
