@@ -13,9 +13,9 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 -->
 
 ## Legend
-- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 6️⃣ IPv6 | 4️⃣ IPv4 | 🛒 Min Order
+- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 6️⃣ IPv6 | 4️⃣ IPv4 | 🛒 Min Order | 👑 Premium
 
-## Per Proxy (IP) Pricing
+## Per Proxy (IP/month) Pricing
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | ⏳Duration | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|----------|-----------|-------|
@@ -27,6 +27,13 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | - | 30,60,90 | 1 | Real prices inside interface |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | - | - | 3,30 | | |
 | [Proxy-Cheap](https://www.proxy-cheap.com) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | | | |
+| [Proxy-Seller](https://www.proxy-cheap.com) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | | | |
+| [Oxylabs](https://www.proxy-cheap.com) | $0.75-1.20 |  |  | | | 10 |
+| [PapaProxy](https://papaproxy.net/) | $0.07-0.19 |  |  | | 1-500 | UPD $0.45-1.57 |
+| [ProxyWing](https://proxywing.com/) | $1.25-2 | $ | $ | | 1 | ISP $1.9-2.5  |
+| [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | | | |
+| [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | |  | 10 | ISP $1.3-1.8, 50%off up to $500 |
+
 
 ## Per Data (GB) Pricing
 
@@ -46,7 +53,11 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [Proxymus](https://proxymus.net/) | - | $4 | - | | |
 | [Evomi](https://evomi.com) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
 | [Proxy-Cheap](https://www.proxy-cheap.com) | - | $2.99-3.49 | $3.59-4.19 | | |
+| [Proxy-Seller](https://www.proxy-cheap.com) | - | $1.45-3.5 | $3.59-4.19 | | |
+| [Oxylabs](https://www.proxy-cheap.com) | - | $3.5-4 | $7.5-9 | | |
+| [ProxyWing](https://proxywing.com/) | - | $2.5, $6👑 | $7.5-9 | | |
 
+Free proxies: webshare, oxylabs, proxyempire (data)
 
 
 <!--
