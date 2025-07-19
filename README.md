@@ -13,7 +13,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 -->
 
 ## Legend
-- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 6️⃣ IPv6 | 4️⃣ IPv4 | 🛒 Min Order | 👑 Premium
+- 🛡️ Private | 👥 Shared | ⏳ Duration (days) | 6️⃣ IPv6 | 4️⃣ IPv4 | 🛒 Min Order | 👑 Premium | 🤖 Scraper helper functionality
 
 ## Per Proxy (IP/month) Pricing
 
@@ -26,21 +26,28 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [Evomi](https://evomi.com) | - |  $1👥, $2.5-4.5🛡️ | - | | | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | - | 30,60,90 | 1 | Real prices inside interface |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | - | - | 3,30 | | |
-| [Proxy-Cheap](https://www.proxy-cheap.com) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | | | |
-| [Proxy-Seller](https://www.proxy-cheap.com) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | | | |
-| [Oxylabs](https://www.proxy-cheap.com) | $0.75-1.20 |  |  | | | 10 |
-| [PapaProxy](https://papaproxy.net/) | $0.07-0.19 |  |  | | 1-500 | UPD $0.45-1.57 |
-| [ProxyWing](https://proxywing.com/) | $1.25-2 | $ | $ | | 1 | ISP $1.9-2.5  |
-| [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | | | |
+| [Proxy-Cheap](https://www.proxy-cheap.com) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | 7,30,365 | 1 | |
+| [Proxy-Seller](https://proxy-seller.com/) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | 7-365 | 1 | |
+| [Oxylabs](https://oxylabs.io/) | $0.75-1.20 |  |  | | 30 | 10 |
+| [PapaProxy](https://papaproxy.net/) | $0.07-0.19 |  |  | 30 | 1-500 | UPD $0.45-1.57 |
+| [ProxyWing](https://proxywing.com/) | $1.25-2 |  |  | 30 | 1 | ISP $1.9-2.5 |
+| [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | 30 | 1 | |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | |  | 10 | ISP $1.3-1.8, 50%off up to $500 |
+| [ASocks](https://asocks.com/) | $0.3-0.95 | $ | $ |  | 30 | 100 |
+| [AbcProxy](https://www.abcproxy.com/) | $4.5-6.5 | $5-6.5 | - | 1 | 7,30,90,365 |  |
+| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  |  | 10,30,60  | 1 |
 
+
+<!--
+| []() | $ | $ | $ |  |  |  |
+-->
 
 ## Per Data (GB) Pricing
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|-----------|-------|
 | [DataImpulse](https://dataimpulse.com/?aff=10601) | $0.5 | $1 | $2 | $5 | |
-| [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | |
+| [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
 | [GeoNode](https://geonode.com/plans/mobile-proxies) | - | $0.5-3 | - | | |
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
 | [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | - | $1.8-54️⃣, $0.46️⃣ | - | $20 | |
@@ -53,9 +60,17 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [Proxymus](https://proxymus.net/) | - | $4 | - | | |
 | [Evomi](https://evomi.com) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
 | [Proxy-Cheap](https://www.proxy-cheap.com) | - | $2.99-3.49 | $3.59-4.19 | | |
-| [Proxy-Seller](https://www.proxy-cheap.com) | - | $1.45-3.5 | $3.59-4.19 | | |
-| [Oxylabs](https://www.proxy-cheap.com) | - | $3.5-4 | $7.5-9 | | |
+| [Proxy-Seller](https://proxy-seller.com/) | - | $1.45-3.5 | $3.59-4.19 | | |
+| [Oxylabs](https://oxylabs.io/) | - | $3.5-4 | $7.5-9 | | 🤖 |
 | [ProxyWing](https://proxywing.com/) | - | $2.5, $6👑 | $7.5-9 | | |
+| [ASocks](https://asocks.com/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
+| [AstroProxy](https://astroproxy.com/r/9e528402c1c95277f2a1c6f97c79f4ab) | $3.94+ | $7.87+ | $13.14+ | $3 | 30 day port duration, from 100Mb/port, KYC |
+| [AbcProxy](https://www.abcproxy.com/) | | $0.77-3.3 | $1.2-3.4 | | Unlim res $66/day |
+| [MangoProxy](https://mangoproxy.com/) | $ | $0.5-5.2 | $ | | 🤖 |
+| [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, +long lasting ISP, + unlimited res $68.33/day |
+<!--
+| []() | $ | $ | $ | | |
+-->
 
 Free proxies: webshare, oxylabs, proxyempire (data)
 
