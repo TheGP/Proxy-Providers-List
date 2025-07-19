@@ -50,21 +50,21 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 |----------|---------------|----------------|-----------|-----------|-------|
 | [DataImpulse](https://dataimpulse.com/?aff=10601) | $0.5 | $1 | $2 | $5 | |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
-| [GeoNode](https://geonode.com/plans/mobile-proxies) | - | $0.5-3 | - | | |
+| [GeoNode](https://geonode.com/plans/mobile-proxies) | | $0.5-3 | | | |
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
-| [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | - | $1.8-54️⃣, $0.46️⃣ | - | $20 | |
+| [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | | $1.8-54️⃣, $0.46️⃣ | | $20 | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.4-1.6 | $2.4-3.5 | $123/month | | |
-| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | - | $0.8-3.3 | - | | Up to 120 min sessions |
+| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $0.8-3.3 | | | Up to 120 min sessions |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | $0.4-0.6 | $3-7 | $4-9 | | |
-| [Packetstream](https://packetstream.io/?psr=5zjq) | - | $1 | - | | |
-| [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | - | $1.4-3.5 | - | | |
-| [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | - | $2-3.45 | $2.15-7 | | |
-| [Proxymus](https://proxymus.net/) | - | $4 | - | | |
+| [Packetstream](https://packetstream.io/?psr=5zjq) | | $1 | | | |
+| [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | | $1.4-3.5 | | | |
+| [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | | $2-3.45 | $2.15-7 | | |
+| [Proxymus](https://proxymus.net/) | | $4 | | | |
 | [Evomi](https://evomi.com) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
-| [Proxy-Cheap](https://www.proxy-cheap.com) | - | $2.99-3.49 | $3.59-4.19 | | |
-| [Proxy-Seller](https://proxy-seller.com/) | - | $1.45-3.5 | $3.59-4.19 | | |
-| [Oxylabs](https://oxylabs.io/) | - | $3.5-4 | $7.5-9 | | 🤖 |
-| [ProxyWing](https://proxywing.com/) | - | $2.5, $6👑 | $7.5-9 | | |
+| [Proxy-Cheap](https://www.proxy-cheap.com) | | $2.99-3.49 | $3.59-4.19 | | |
+| [Proxy-Seller](https://proxy-seller.com/) | | $1.45-3.5 | $3.59-4.19 | | |
+| [Oxylabs](https://oxylabs.io/) | | $3.5-4 | $7.5-9 | | 🤖 |
+| [ProxyWing](https://proxywing.com/) | | $2.5, $6👑 | $7.5-9 | | |
 | [ASocks](https://asocks.com/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [AstroProxy](https://astroproxy.com/r/9e528402c1c95277f2a1c6f97c79f4ab) | $3.94+ | $7.87+ | $13.14+ | $3 | 30 day port duration, from 100Mb/port, KYC |
 | [AbcProxy](https://www.abcproxy.com/) | | $0.77-3.3 | $1.2-3.4 | | Unlim res $66/day |
