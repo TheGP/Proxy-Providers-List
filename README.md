@@ -20,6 +20,7 @@ v6 - IPv6, v4- IPv4
 * [IPRoyal](https://iproyal.com/?r=381340) 🏢 $1.57-1.8 🏠 $2.7-4 ⏳30,60,90 (real prices inside interface) 🛒1
 * [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) 🏢 v6🛡️ $0.05(🇷🇺)-0.38 v4👥 $0.39(🇷🇺)-0.58 v4🛡️ $1.74-1.9 ⏳3,30
 * [Proxy-Cheap](https://www.proxy-cheap.com) 🏢 v4 $1.18-1.39 v6 $0.15-0.18 🏠 v4 $1.27-1.49 v6 $0.52-0.64 📱 $19-28.7
+  
 
 
 
@@ -31,6 +32,7 @@ v6 - IPv6, v4- IPv4
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) 🏢 $0.4-0.6 🏠 $4.2-2.9 📱 $5-8
 * [GeoNode](https://geonode.com/plans/mobile-proxies) 🏠 0.5-3
 * [Soax](https://soax.com?afmc=9e) 🏢 $0.4-0.6 🏠 $1.5-3 (USA) 📱 $2-3.6
+* [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) 🏠 v4 $1.8-5 v6 $0.4 🛒 $20
 * [IPRoyal](https://iproyal.com/?r=381340) 🏢 $1.4-1.6 🏠 $2.4-3.5 📱 $123/month
 * [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) 🏠 $0.8-3.3 (up to 120 min)
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) 🏢 $0.4-0.6 🏠 $3-7 📱 $4-9
@@ -40,3 +42,4 @@ v6 - IPv6, v4- IPv4
 * [Proxymus](https://proxymus.net/) 🏠 $4
 * [Evomi](https://evomi.com) 🏢 $0.3-0.45 🏠 $0.5-1 📱 $3.4-4
 * [Proxy-Cheap](https://www.proxy-cheap.com) 🏠 $2.99-3.49 📱 $3.59-4.19
+  
