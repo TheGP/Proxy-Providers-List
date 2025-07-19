@@ -68,12 +68,12 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [ASocks](https://asocks.com/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [AstroProxy](https://astroproxy.com/r/9e528402c1c95277f2a1c6f97c79f4ab) | $3.94+ | $7.87+ | $13.14+ | $3 | 30 day port duration, from 100Mb/port, KYC |
 | [AbcProxy](https://www.abcproxy.com/) | | $0.77-3.3 | $1.2-3.4 | | Unlim res $66/day |
-| [MangoProxy](https://mangoproxy.com/) | $ | $0.5-5.2 | $ | | 🤖 |
+| [MangoProxy](https://mangoproxy.com/) | | $0.5-5.2 | | | 🤖 |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, long lasting ISP, unlim res $68.33/day |
 | [IPFoxy](https://ipfoxy.com/) | | $3-6 | | | |
 | [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
-| [FlyProxy](https://www.flyproxy.com/) | | $1.90-2.5 | $ | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 |
+| [FlyProxy](https://www.flyproxy.com/) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 |
 <!--
 | []() | $ | $ | $ | | |
 -->
