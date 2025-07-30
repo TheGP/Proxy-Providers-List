@@ -39,7 +39,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [IPFoxy](https://ipfoxy.com/) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
 | [FlyProxy](https://www.flyproxy.com/) | $7.7 | $11 | | 10,30,60 | 1 |  |
 | [Thordata](https://www.thordata.com/) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
-| [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | 🛡️$50-162 👥$50  | 30 | 1 | |
+| [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 
 
