@@ -38,6 +38,9 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
 | [IPFoxy](https://ipfoxy.com/) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
 | [FlyProxy](https://www.flyproxy.com/) | $7.7 | $11 | | 10,30,60 | 1 |  |
+| [Thordata](https://www.thordata.com/) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
+| [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162 | 30 | 1 | has shared mobile |
+| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 
 
 <!--
@@ -74,11 +77,17 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [FlyProxy](https://www.flyproxy.com/) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 |
+| [Thordata](https://www.thordata.com/) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
+| [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
+| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
+
 <!--
 | []() | $ | $ | $ | | |
 -->
 
 Free proxies: webshare, oxylabs, proxyempire (data)
+
+Not yet added: https://www.ipidea.net/ (Chinese, expensive), https://www.kookeey.com/ (Chinese), https://cliproxy.com/, https://www.proxy302.com/ (Chinese), liveproxies.io (expensive, weird pricing)
 
 
 <!--
