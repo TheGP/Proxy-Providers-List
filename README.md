@@ -21,7 +21,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 |----------|---------------|----------------|-----------|----------|-----------|-------|
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | $0.018-0.03👥 | $0.3-0.33👥 | | 30 | 20-100 | |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | |
-| [Proxy-store](https://proxy-store.com) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
+| [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
 | [Proxymus](https://proxymus.net/) | $1.5 | | | 30 | 1 | |
 | [Evomi](https://evomi.com) | |  $1👥, $2.5-4.5🛡️ | | | | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | | 30,60,90 | 1 | Real prices inside interface |
@@ -38,7 +38,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | $7.7 | $11 | | 10,30,60 | 1 |  | 
-| [Thordata](https://www.thordata.com/) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
+| [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 
@@ -77,7 +77,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 | Currently can contact there support for free 0.5G
-| [Thordata](https://www.thordata.com/) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
+| [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
 
