@@ -76,7 +76,7 @@ If you want mobile/4G proxies, check [4g proxy providers list](https://github.co
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | | $3-6 | | | |
 | [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
-| [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75 | Currently can contact there support for free 0.5G
+| [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
