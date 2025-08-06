@@ -43,6 +43,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
+| [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $5 | |  |  |  |
 
 
 <!--
@@ -81,7 +82,8 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
-| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
+| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
+| [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
 
 <!--
 | []() | $ | $ | $ | | |
