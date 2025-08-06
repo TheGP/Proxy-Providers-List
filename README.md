@@ -44,7 +44,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $5 | |  |  |  |
-
+| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 |  |
 
 <!--
 | []() | $ | $ | $ |  |  |  |
@@ -84,6 +84,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
+| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | | $0.77-3.3 | | | 🤖, !monthly subscription, $0.4-1.2 ISP, unlimited $79-252 |
 
 <!--
 | []() | $ | $ | $ | | |
