@@ -2,7 +2,7 @@
 
 If you want mobile/4G proxies, check [4g proxy providers list](https://github.com/TheGP/4g-proxies-providers)
 
-Is this list useful to you? Do you have suggestions? All feedback is welcomed, pls create an issue.
+Is this list useful to you? Do you have suggestions? All feedback is welcomed, pls create an issue. If you find it helpful, pls ⭐ it.
 
 <!--
 🏢 - datacenter
