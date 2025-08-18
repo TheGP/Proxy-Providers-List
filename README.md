@@ -25,7 +25,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | |
 | [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
 | [Proxymus](https://proxymus.net/) | $1.5 | | | 30 | 1 | |
-| [Evomi](https://evomi.com) | |  $1👥, $2.5-4.5🛡️ | | | | |
+| [Evomi](https://evomi.com?p=ESXARHC2KF) | |  $1👥, $2.5-4.5🛡️ | | | | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | | 30,60,90 | 1 | Real prices inside interface |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | | | 3,30 | | |
 | [Proxy-Cheap](https://app.proxy-cheap.com/r/GroQIM) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | 7,30,365 | 1 | |
@@ -66,7 +66,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | | $1.4-3.5 | | | |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | | $2-3.45 | $2.15-7 | | |
 | [Proxymus](https://proxymus.net/) | | $4 | | | |
-| [Evomi](https://evomi.com) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
+| [Evomi](https://evomi.com?p=ESXARHC2KF) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
 | [Proxy-Cheap](https://app.proxy-cheap.com/r/GroQIM) | | $2.99-3.49 | $3.59-4.19 | | |
 | [Proxy-Seller](https://proxy-seller.com/?partner=L7CUPS5E7GXNNR) | | $1.45-3.5 | $3.59-4.19 | | |
 | [Oxylabs](https://oxylabs.io/) | | $3.5-4 | $7.5-9 | | 🤖 |
