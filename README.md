@@ -56,7 +56,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 |----------|---------------|----------------|-----------|-----------|-------|
 | [DataImpulse](https://dataimpulse.com/?aff=10601) | $0.5 | $1 | $2 | $5 | |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
-| [GeoNode](https://geonode.com/plans/mobile-proxies) | | $0.5-3 | | | |
+| [GeoNode](https://geonode.com/?ref=152763) | | $0.5-3 | | | |
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
 | [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | | $1.8-54️⃣, $0.46️⃣ | | $20 | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.4-1.6 | $2.4-3.5 | $123/month | | |
