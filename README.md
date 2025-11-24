@@ -79,12 +79,12 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | | $3-6 | | | |
 | [IpnProxy](https://ipnproxy.com/auth/register?referrals=0ZHX4RDR) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | 1GB | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
-| [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
-| [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
+| [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | $50 | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
+| [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-3.5 | | 1Gb | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
-| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | | 30 day validity |
+| [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | 3Gb | 30 day validity |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
-| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | | $0.77-3.3 | | | 🤖, !monthly subscription, $0.4-1.2 ISP, unlimited $79-252 |
+| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | | $0.77-3.3 | | 5Gb | 🤖, !monthly subscription, $0.4-1.2 ISP, unlimited $79-252 |
 
 <!--
 | []() | $ | $ | $ | | |
