@@ -77,7 +77,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [MangoProxy](https://mangoproxy.com/) | | $0.5-5.2 | | | 🤖 |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, long lasting ISP, unlim res $68.33/day |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | | $3-6 | | | |
-| [IpnProxy](https://ipnproxy.com/) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | | +VPN, Google Map scraper |
+| [IpnProxy](https://ipnproxy.com/auth/register?referrals=0ZHX4RDR) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | 1GB | +VPN, Google Map scraper |
 | [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-1.8 | |  | 🤖, res unlim $69-280.00/day |
