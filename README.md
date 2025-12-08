@@ -35,7 +35,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [ProxyWing](https://dashboard.proxywing.com/billing/aff.php?aff=1537) | $1.25-2 |  |  | 30 | 1 | ISP $1.9-2.5 |
 | [Proxymus](https://proxymus.net/) | $1.5 | | | 30 | 1 | |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | 30 | 1 | |
-| [ASocks](https://asocks.com/?c=bonus3) | $0.3-0.95 |  |  |  | 30 | 100 |
+| [ASocks](https://asocks.com/?c=bonus3) | $0.3-0.95 |  |  |  | 30 | 1GB free for connecting TG |
 | [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 |  |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
