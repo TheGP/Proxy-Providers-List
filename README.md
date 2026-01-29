@@ -22,7 +22,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | ⏳Duration | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|----------|-----------|-------|
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | | | | 10 | ISP $1.3-1.8, 50%off up to $500 |
-| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | |
 | [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
 | [Evomi](https://evomi.com?p=ESXARHC2KF) | |  $1👥, $2.5-4.5🛡️ | | | | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | | 30,60,90 | 1 | Real prices inside interface |
@@ -36,7 +35,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Proxymus](https://proxymus.net/) | $1.5 | | | 30 | 1 | |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | | $2+data | $125-250 | 30 | 1 | |
 | [ASocks](https://asocks.com/?c=bonus3) | $0.3-0.95 |  |  |  | 30 | 1GB free for connecting TG |
-| [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 |  |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | $7.7 | $11 | | 10,30,60 | 1 |  | 
@@ -44,7 +42,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $5 | |  |  |  |
-| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 |  |
 
 <!--
 | []() | $ | $ | $ |  |  |  |
@@ -60,7 +57,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
 | [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | | $1.8-54️⃣, $0.46️⃣ | | $20 | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.4-1.6 | $2.4-3.5 | $123/month | | |
-| [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $0.8-3.3 | | | Up to 120 min sessions |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | $0.4-0.6 | $3-7 | $4-9 | | |
 | [Packetstream](https://packetstream.io/?psr=5zjq) | | $1 | | | |
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | | $1.4-3.5 | | | |
@@ -73,7 +69,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [ProxyWing](https://dashboard.proxywing.com/billing/aff.php?aff=1537) | | $2.5, $6👑 | $7.5-9 | | |
 | [ASocks](https://asocks.com/?c=bonus3) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [AstroProxy](https://astroproxy.com/r/9e528402c1c95277f2a1c6f97c79f4ab) | $3.94+ | $7.87+ | $13.14+ | $3 | 30 day port duration, from 100Mb/port, KYC |
-| [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | | $0.77-3.3 | $1.2-3.4 | | Unlim res $66/day |
 | [MangoProxy](https://mangoproxy.com/) | | $0.5-5.2 | | | 🤖 |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, long lasting ISP, unlim res $68.33/day |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | | $3-6 | | | |
@@ -84,7 +79,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | 3Gb | 30 day validity |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
-| [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | | $0.77-3.3 | | 5Gb | 🤖, !monthly subscription, $0.4-1.2 ISP, unlimited $79-252 |
 
 <!--
 | []() | $ | $ | $ | | |
@@ -99,7 +93,6 @@ Not yet added: https://www.ipidea.net/ (Chinese, expensive), https://www.kookeey
 
 ## Per proxy (IP)
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) 🏢👥 $0.03-0.018 🏠👥 $0.3-0.33 ⏳30 🛒20-100
-* [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) 🏠 $5-6 ⏳7,30 🛒1
 * [Proxy-store](https://proxy-store.com) 🏢 $1.4-2.6 👥 $1.4 ⏳5,10,20,30 🛒1
 * [Proxymus](https://proxymus.net/) 🏢 $1.5 ⏳30 🛒1
 * [Evomi](https://evomi.com) 🏠👥 $1 🛡️ $2.5-4.5
@@ -118,7 +111,6 @@ Not yet added: https://www.ipidea.net/ (Chinese, expensive), https://www.kookeey
 * [Soax](https://soax.com?afmc=9e) 🏢 $0.4-0.6 🏠 $1.5-3 (USA) 📱 $2-3.6
 * [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) 🏠 v4 $1.8-5 v6 $0.4 🛒 $20
 * [IPRoyal](https://iproyal.com/?r=381340) 🏢 $1.4-1.6 🏠 $2.4-3.5 📱 $123/month
-* [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) 🏠 $0.8-3.3 (up to 120 min)
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) 🏢 $0.4-0.6 🏠 $3-7 📱 $4-9
 * [Packetstream](https://packetstream.io/?psr=5zjq) 🏠 $1
 * [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) 🏠 $1.4-3.5
