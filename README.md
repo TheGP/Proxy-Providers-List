@@ -21,6 +21,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | ⏳Duration | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|----------|-----------|-------|
+| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | $1.11-1.2 | | | | 10 | ISP $1.38-1.5 |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | | | | 10 | ISP $1.3-1.8, 50%off up to $500 |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | |
 | [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
