@@ -55,6 +55,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|-----------|-------|
+| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | | $0.5-3.2 | | | Never expiring |
 | [DataImpulse](https://dataimpulse.com/?aff=10601) | $0.5 | $1 | $2 | $5 | |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
 | [GeoNode](https://geonode.com/?ref=152763) | | $0.5-3 | | | |
