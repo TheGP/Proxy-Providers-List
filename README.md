@@ -21,7 +21,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | ⏳Duration | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|----------|-----------|-------|
-| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | $1.11-1.2 | | | | 10 | ISP $1.38-1.5 |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | | | | 10 | ISP $1.3-1.8, 50%off up to $500 |
 | [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
 | [Evomi](https://evomi.com?p=ESXARHC2KF) | |  $1👥, $2.5-4.5🛡️ | | | 5 | |
@@ -29,6 +28,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | | | 3,30 | | |
 | [Proxy-Cheap](https://app.proxy-cheap.com/r/GroQIM) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | 7,30,365 | 1 | |
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | $0.018-0.03👥 | $0.3-0.33👥 | | 30 | 20-100 | |
+| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | $1.11-1.2 | | | | 10 | ISP $1.38-1.5 |
 | [Proxy-Seller](https://proxy-seller.com/) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | 7-365 | 1 | |
 | [Oxylabs](https://oxylabs.io/) | $0.75-1.20 |  |  | | 30 | 10 |
 | [PapaProxy](https://papaproxy.net/panel/aff.php?aff=96) | $0.07-0.19 |  |  | 30 | 1-500 | UPD $0.45-1.57 |
