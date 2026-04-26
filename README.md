@@ -23,6 +23,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 |----------|---------------|----------------|-----------|----------|-----------|-------|
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.9-1.4 | | | | 10 | ISP $1.3-1.8, 50%off up to $500 |
 | [Proxy-store](https://proxy-store.com/xLRxdD6O) | $1.4-2.6👥 | | | 5,10,20,30 | 1 | |
+| [SX](https://sx.org/?c=UNTI) | $5 | $5 | $15 | | with unlimited traffic |
 | [Evomi](https://evomi.com?p=ESXARHC2KF) | |  $1👥, $2.5-4.5🛡️ | | | 5 | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.57-1.8 | $2.7-4 | | 30,60,90 | 1 | Real prices inside interface |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | | | 3,30 | | |
@@ -61,6 +62,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
 | [GeoNode](https://geonode.com/?ref=152763) | | $0.5-3 | | | |
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
+| [SX](https://sx.org/?c=UNTI) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [NstProxy](https://app.nstproxy.com/register?i=fSdi3e) | | $1.8-54️⃣, $0.46️⃣ | | $20 | |
 | [IPRoyal](https://iproyal.com/?r=381340) | $1.4-1.6 | $2.4-3.5 | $123/month | | |
 | [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) | $0.4-0.6 | $3-7 | $4-9 | | |
@@ -80,7 +82,6 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) |  | $1.40-3 |  | $28 | 🤖, expiring in 30-180 days, long lasting ISP, unlim res $68.33/day |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | | $3-6 | | | |
 | [IpnProxy](https://ipnproxy.com/auth/register?referrals=0ZHX4RDR) | $2.25/day unlim | $1.75+ | $2.75+ 🛡️4.99+/day unlim | 1GB | +VPN, Google Map scraper |
-| [SX](https://sx.org/) | $0.45-0.6 | $4.13-5.5 | $4.5-6 | | |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | $50 | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-3.5 | | 1Gb | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
