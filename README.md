@@ -39,6 +39,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [ASocks](https://asocks.com/?c=bonus3) | $0.3-0.95 |  |  |  | 30 | 1GB free for connecting TG |
 | [BestProxy](https://bestproxy.com/register/?invitation_code=C4QJK9) | $7.8 | $10 |  | 10,30,60 | 1  |  |
 | [IPFoxy](https://referral.ipfoxy.com/P0LRJy) | $4.994️⃣ $3.996️⃣ | $7.99 |  | 30,90,180,365 | 1  |  |
+| [IPLoop](https://iploop.io) |  |  |  |  |  | 2M+ residential IPs, 195 countries, HTTP/SOCKS5, Python/Node.js/Java SDKs with TLS fingerprinting |
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | $7.7 | $11 | | 10,30,60 | 1 |  | 
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | $0.75-1.5 | | | 7,30 | 1 | ISP $0.75-1.5 |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
