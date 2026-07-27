@@ -29,7 +29,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | $0.05(🇷🇺)-0.38 6️⃣🛡️, $0.39(🇷🇺)-0.58 4️⃣👥, $1.74-1.9 4️⃣🛡️ | | | 3,30 | | |
 | [Proxy-Cheap](https://app.proxy-cheap.com/r/GroQIM) | $1.18-1.394️⃣, $0.15-0.186️⃣ | $1.27-1.494️⃣, $0.52-0.646️⃣ | $19-28.7 | 7,30,365 | 1 | |
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | $0.018-0.03👥 | $0.3-0.33👥 | | 30 | 20-100 | |
-| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | $1.11-1.2 | | | | 10 | ISP $1.38-1.5 |
+| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | $0.064 | | | | 1 | ISP $0.08/IP/day or less |
 | [Proxy-Seller](https://proxy-seller.com/) | $0.9-3.34️⃣, $0.02-1.66️⃣ | $1.89-3 | $49-110🛡️ $20-40👥 | 7-365 | 1 | |
 | [Oxylabs](https://oxylabs.io/) | $0.75-1.20 |  |  | | 30 | 10 |
 | [PapaProxy](https://papaproxy.net/panel/aff.php?aff=96) | $0.07-0.19 |  |  | 30 | 1-500 | UPD $0.45-1.57 |
@@ -71,7 +71,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Packetstream](https://packetstream.io/?psr=5zjq) | | $1 | | | |
 | [WebShare](https://www.webshare.io/?referral_code=r5ah58acc1n1) | | $1.4-3.5 | | | |
 | [Proxy.market](https://dashboard.proxy.market/?ref=E000134149) | | $2-3.45 | $2.15-7 | | |
-| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | | $0.5-3.2 | | | Never expiring |
+| [IPcook](https://www.ipcook.com/?ref=OPXW5Y&utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | | $0.3-3.2 | | | Never-expiring traffic |
 | [Proxymus](https://proxymus.net/) | | $4 | | | |
 | [Evomi](https://evomi.com?p=ESXARHC2KF) | $0.3-0.45 | $0.5-1 | $3.4-4 | | |
 | [Proxy-Cheap](https://app.proxy-cheap.com/r/GroQIM) | | $2.99-3.49 | $3.59-4.19 | | |
