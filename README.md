@@ -61,6 +61,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | Provider | 🏢Datacenter | 🏠Residential | 📱Mobile | 🛒Min Order | Notes |
 |----------|---------------|----------------|-----------|-----------|-------|
 | [DataImpulse](https://dataimpulse.com/?aff=10601) | $0.5 | $1 | $2 | $5 | |
+| [Ropond](https://ropond.com) | | $0.8-2.5 | $2.2-3.8 | 1GB Free | Clean residential ISP pool, sticky session leasing for anti-detect browsers |
 | [BrightData](https://get.brightdata.com/jdpda3d3pu8n) | $0.4-0.6 | $2.9-4.2 | $5-8 | | 🤖 |
 | [GeoNode](https://geonode.com/?ref=152763) | | $0.5-3 | | | |
 | [Soax](https://soax.com?afmc=9e) | $0.4-0.6 | $1.5-3 (USA) | $2-3.6 | | |
