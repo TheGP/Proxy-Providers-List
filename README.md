@@ -45,8 +45,9 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) | $2.33-2.92 | $5.29 | $50-162🛡️ $50👥  | 30 | 1 | |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $1.5-5 | $2.5-5 | | 7,30,90 | 1 | |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $5 | |  |  |  |
+| [ProxyShard](https://proxyshard.com?ref=16922) | $1.2 |  | |  |  |  |
 | [FloppyData](floppydata.com) | | | |  |  | $5 ISP |
-| [HypeProxy](floppydata.com) | | $4-5 | |  |  | |
+| [HypeProxy](https://hypeproxy.io/) | | $4-5 | |  |  | |
 | [GonzoProxy](https://gonzoproxy.com/?utm_source=github)| | $2.0-$6.5 | $7-$45 | Unlimited | | Unlimited traffic, No KYC, 20M+ IPs |
 | [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
@@ -92,6 +93,9 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
 | [IPLoop](https://iploop.io/) | | $0.5-1.5 | | | 0.5Gb free, Python, Node.js, Java SDKs with built-in TLS fingerprinting |
 | [FloppyData](floppydata.com) | $0.6 | $1 | $1 | | |
+| [ProxyShard](https://proxyshard.com?ref=16922) |  | $2-3 | $50+/m |  | |
+
+
 
 | [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | | $0.77-3.3 | | 5Gb | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) 🤖, !monthly subscription, $0.4-1.2 ISP, unlimited $79-252 |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $0.8-3.3 | | | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) Up to 120 min sessions |
