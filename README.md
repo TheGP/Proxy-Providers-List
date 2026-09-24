@@ -89,6 +89,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [FlyProxy](https://www.flyproxy.com/?invitation_code=YABR3X) | | $1.90-2.5 | | $50 | res unlim 72.58-270/day, long lasting ISP $1.4-2.75, can contact there support for free 0.5G |
 | [Thordata](https://dashboard.thordata.com/register?invitation_code=PL3KADIY) | | $0.65-3.5 | | 1Gb | 🤖, res unlim $69-280.00/day |
 | [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers)  | | $2.5-3.9 | | | |
+| [ProxyLane](https://proxylane.dev/?utm_source=github&utm_medium=referral&utm_campaign=proxy_providers_list) | | $2–6.50 | | $1.95 trial | Non-expiring traffic, No KYC, 28M+ IPs |
 | [OkeyProxy](https://www.okeyproxy.com?ref=el7yr8) | $0.35-1.6 | $0.64-2.48 | | 3Gb | 30 day validity |
 | [RapidProxy](https://www.rapidproxy.io/?code=78OTLC9IK) | | $1-2 | | | |
 | [IPLoop](https://iploop.io/) | | $0.5-1.5 | | | 0.5Gb free, Python, Node.js, Java SDKs with built-in TLS fingerprinting |
