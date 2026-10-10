@@ -49,6 +49,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [FloppyData](floppydata.com) | | | |  |  | $5 ISP |
 | [HypeProxy](https://hypeproxy.io/) | | $4-5 | |  |  | |
 | [GonzoProxy](https://gonzoproxy.com/?utm_source=github)| | $2.0-$6.5 | $7-$45 | Unlimited | | Unlimited traffic, No KYC, 20M+ IPs |
+| [Proxya](https://proxya.co) | $0.82-1.70 | | $80-110🛡️ | 30,90,180,365 | 1 | ISP $1.50-2.50, OS fingerprint (TCP/IP) change on ISP and DC, mobile 4G/5G USA and UK from $6/day |
 | [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
@@ -94,6 +95,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [IPLoop](https://iploop.io/) | | $0.5-1.5 | | | 0.5Gb free, Python, Node.js, Java SDKs with built-in TLS fingerprinting |
 | [FloppyData](floppydata.com) | $0.6 | $1 | $1 | | |
 | [ProxyShard](https://proxyshard.com?ref=16922) |  | $2-3 | $50+/m |  | |
+| [Proxya](https://proxya.co/proxies/residential) | | $1.68-2.40 | | 1Gb | |
 
 
 
