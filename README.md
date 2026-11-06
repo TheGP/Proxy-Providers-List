@@ -94,6 +94,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [IPLoop](https://iploop.io/) | | $0.5-1.5 | | | 0.5Gb free, Python, Node.js, Java SDKs with built-in TLS fingerprinting |
 | [FloppyData](floppydata.com) | $0.6 | $1 | $1 | | |
 | [ProxyShard](https://proxyshard.com?ref=16922) |  | $2-3 | $50+/m |  | |
+| [HProxy](https://hproxy.com/) | | $0.44-1 | from $1.5 | | ISP from $0.65/GB, pay as you go |
 
 
 
