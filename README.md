@@ -94,6 +94,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [IPLoop](https://iploop.io/) | | $0.5-1.5 | | | 0.5Gb free, Python, Node.js, Java SDKs with built-in TLS fingerprinting |
 | [FloppyData](floppydata.com) | $0.6 | $1 | $1 | | |
 | [ProxyShard](https://proxyshard.com?ref=16922) |  | $2-3 | $50+/m |  | |
+| [ProxiesFood](https://proxiesfood.com/) | $6.99/day unlim (1K threads) | $0.20-0.50 | | 25GB | res unlim $14.99/day (100 Mbps) to $124.99/day (1 Gbps), HTTP/SOCKS5 + UDP, crypto, 15 min free trial |
 
 
 
