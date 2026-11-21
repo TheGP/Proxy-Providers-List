@@ -49,6 +49,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [FloppyData](floppydata.com) | | | |  |  | $5 ISP |
 | [HypeProxy](https://hypeproxy.io/) | | $4-5 | |  |  | |
 | [GonzoProxy](https://gonzoproxy.com/?utm_source=github)| | $2.0-$6.5 | $7-$45 | Unlimited | | Unlimited traffic, No KYC, 20M+ IPs |
+| [ProProxies](https://www.proproxies.co.uk/) | | | $45-85🛡️ | 1,7,30 | 1 | Dedicated 4G modems: UK (O2, EE, Three), USA, IE, FR, DE, ES, NL, AU. OpenVPN; WireGuard & AmneziaWG on UK; SOCKS5 UDP (UK) |
 | [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
