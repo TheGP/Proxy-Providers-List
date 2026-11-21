@@ -141,6 +141,7 @@ Not yet added: https://www.kookeey.com/ (Chinese), https://cliproxy.com/, https:
 * [Proxymus](https://proxymus.net/) 🏠 $4
 * [Evomi](https://evomi.com) 🏢 $0.3-0.45 🏠 $0.5-1 📱 $3.4-4
 * [Proxy-Cheap](https://www.proxy-cheap.com) 🏠 $2.99-3.49 📱 $3.59-4.19
+* [Ashburn Proxies](https://ashburnproxies.com/?utm_source=github) | | | $6 per GB | $30/5 GB | 1000 Dedicated USA Proxies Included; private proxy pool; HTTP(S) & SOCKS5 support |
 
 -->
 
