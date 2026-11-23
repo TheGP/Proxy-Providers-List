@@ -52,6 +52,7 @@ Is this list useful to you? Do you have suggestions? All feedback is welcomed, p
 | [LunaProxy](https://www.lunaproxy.com/register?Invitation_code=59NQELMK) | $4.5 | | | 7,30,90 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) | | $5-6 | | 7,30 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
 | [AbcProxy](https://www.abcproxy.com/?code=PKNBSH6V) | $4.5-6.5 | $5-6.5 | | 7,30,90,365 | 1 | [malicious practices?](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/) |
+| [StayIP](https://stayip.com/en) | $3👥 | $8🛡️ | | 30,90,180,365 | 1 | Dedicated home-broadband IP for one customer, kept while renewed (24h hold after expiry). Monthly plan includes 150 GB. The $3 cell is the shared datacenter plan (US, Singapore, Japan, UK). Prices are the English page's whole-dollar amounts on 2026-11-23. Submitted by the StayIP team. |
 
 
 <!--
